@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Armchair",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/armchair.png?raw=true"
+    },
+    {
+        "name" : "Bed",
+        "category" : "Bed",
+        "price" : "102.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/bed.png?raw=true"
+    },
+    {
+        "name" : "Bench",
+        "category" : "Bench",
+        "price" : "15.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/bench.png?raw=true"
+    },
+    {
+        "name" : "Bunk bed",
+        "category" : "Bed",
+        "price" : "23.75",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/bunk-bed.png?raw=true"
+    },
+    {
+        "name" : "Cabinet",
+        "category" : "Cabinet",
+        "price" : "50.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/cabinet.png?raw=true"
+    },
+    {
+        "name" : "Card table",
+        "category" : "Table",
+        "price" : "200.50",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/card-table.png?raw=true"
+    },
+    {
+        "name" : "Cushion",
+        "category" : "Cushion",
+        "price" : "5.50",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/cushion.png?raw=true"
+    },
+    {
+        "name" : "Desk",
+        "category" : "Desk",
+        "price" : "25.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/desk.png?raw=true"
+    },
+    {
+        "name" : "Drawer",
+        "category" : "Drawer",
+        "price" : "49.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/drawer.png?raw=true"
+    },
+    {
+        "name" : "Office chair",
+        "category" : "Chair",
+        "price" : "60.99",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/office-chair.png?raw=true"
+    },
+    {
+        "name" : "Scissors chair",
+        "category" : "Chair",
+        "price" : "69.20",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/scissors-chair.png?raw=true"
+    },
+    {
+        "name" : "Sleeper sofa",
+        "category" : "Sofa",
+        "price" : "224.99",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/sleeper-sofa.png?raw=true"
+    },
+    {
+        "name" : "Sleigh bed",
+        "category" : "Bed",
+        "price" : "90.25",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/sleigh-bed.png?raw=true"
+    },
+    {
+        "name" : "Sofa bed",
+        "category" : "Bed",
+        "price" : "99.99",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/sofa-bed.png?raw=true"
+    },
+    {
+        "name" : "White armchair",
+        "category" : "Chair",
+        "price" : "75.80",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/white-armchair.png?raw=true"
+    },
+    {
+        "name" : "White sofa",
+        "category" : "Sofa",
+        "price" : "159.00",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/white-sofa.png?raw=true"
+    },
+    {
+        "name" : "Wing chair",
+        "category" : "Chair",
+        "price" : "100.50",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/wing-chair.png?raw=true"
+    },
+    {
+        "name" : "Wooden armchair",
+        "category" : "Chair",
+        "price" : "187.45",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/wooden-armchair.png?raw=true"
+    },
+    {
+        "name" : "Wooden dining table",
+        "category" : "Table",
+        "price" : "322.50",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/wooden-dining-table.png?raw=true"
+    },
+    {
+        "name" : "Wooden table",
+        "category" : "Table",
+        "price" : "288.99",
+        "imgSrc" : "https://github.com/prabinmagar/furniture-add-to-cart-vanilla-js/blob/master/images/wooden-table.png?raw=true"
+    }
+]
